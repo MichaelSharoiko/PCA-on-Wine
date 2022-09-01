@@ -3,7 +3,7 @@
 Firstly, this project was inspired by Stephen Tran (https://www.linkedin.com/in/stephentran96/) and this article by Rukshan
 https://towardsdatascience.com/principal-component-analysis-pca-with-scikit-learn-1e84a0c731b0
 
-WHAT WE WILL DO
+WHAT WE WILL DO?
 This project will look to apply principal component analysis techniques to the wine data from SKLearn.
 
 WHY DO WE DO THIS?
